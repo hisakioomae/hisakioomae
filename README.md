@@ -1,16 +1,24 @@
-## Hi there 👋
+---
 
-<!--
-**hisakioomae/hisakioomae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 スキル
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,objc,swiftui,ios,dart,kotlin&theme=dark&perline=5" alt="My Skills"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👁 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/hisakioomae/count.svg)
+
+---
+
+### ⏱ WakaTime 統計
+
+![Hisakioomae wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hisakioomae&layout=compact&theme=dark)
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
